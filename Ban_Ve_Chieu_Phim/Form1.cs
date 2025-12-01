@@ -139,7 +139,7 @@ namespace Ban_Ve_Chieu_Phim
 
             //chinh lai form
             this.Size = new System.Drawing.Size(
-                panel_GHE.Size.Width + 80,
+                panel_GHE.Size.Width + 100,
                 panel_GHE.Size.Height + 200
                 );
 
